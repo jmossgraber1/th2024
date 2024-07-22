@@ -11,3 +11,9 @@
   visibility: hidden !important;
     line-height: 0 !important;
 }
+button.register-button {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+    border: none !important;
+}
