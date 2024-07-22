@@ -4,7 +4,9 @@
 
 .event-date{
   visibility: hidden !important;
+    line-height: 0 !important;
 }
 .event-time{
   visibility: hidden !important;
+    line-height: 0 !important;
 }
