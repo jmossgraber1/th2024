@@ -1,0 +1,10 @@
+.headline {
+    visibility: hidden !important;
+}
+
+.event-date{
+  visibility: hidden !important;
+}
+.event-time{
+  visibility: hidden !important;
+}
