@@ -1,19 +1,8 @@
-.headline {
-    visibility: hidden !important;
-     line-height: 0 !important;
+h1.event-name {
+    visibility: collapse !important;
 }
 
-.event-date{
-  visibility: hidden !important;
-    line-height: 0 !important;
+bt-start-end-date.event-start-end-date {
+    visibility: collapse !important;
 }
-.event-time{
-  visibility: hidden !important;
-    line-height: 0 !important;
-}
-button.register-button {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    display: block !important;
-    border: none !important;
-}
+
